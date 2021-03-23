@@ -1,0 +1,182 @@
+body {
+    background-color: black;
+    color: white;
+}
+.container {
+    position: absolute;
+    align-items: center;
+    min-width: 100%;
+}
+.container-fluid {
+    height: 60px;
+    margin: 10px 60px;
+    color: white;
+    display: inline;
+}
+.navbar-brand {
+    text-decoration: none;  
+    margin: 15px;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+    font-weight: bolder;  
+    font-size: 25px;
+}
+.align-top {
+    border-radius: 50%;
+    outline: none;
+}
+.fa-bars {
+    float: right;
+    right: 10%;
+    font-size: 40px;
+    color: white;
+    margin-top: 15px;
+    margin-right: 80px;
+}
+#box {
+    height: 60px;
+    width: 80%;
+    margin: 200px 80px 100px 80px;
+    box-sizing: border-box;
+    padding-bottom: 5%;
+}
+.width  {
+    display: block;
+    width: 40%;
+    position: inherit;
+    float: right;
+    right: 20%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.width .decor {
+    line-height: 25px;
+    font-weight: lighter;
+    opacity: 0.5;
+    font-size: 16px;
+}
+.smile img{
+    margin-left: 100px;
+    margin-left: 100px;
+    height: 400px;
+    width: 300px;
+    z-index: 1;
+}
+.height {
+    color: yellow;
+}
+.height p {
+    font-size: 15px;
+}
+.height .fa  {
+    margin: 0 10px 0 0;
+    color: yellow;
+}
+.height .fa a {
+    text-decoration: none;
+}
+.contact {
+    color: white;
+    font-size: 14px;
+}
+.decor .fa {
+    color: yellow;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.width a {
+    color: yellow;
+    text-decoration: none;
+}
+.contain {
+    color: white;
+    box-sizing: border-box;
+    margin-top: 20%;
+    margin-bottom: 40px;
+    padding: 20% 12% 0% 12%;
+    display: block;
+    line-height: 5px;
+    z-index: auto;
+}
+.large {
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.intro {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.size {
+    font-size: 25px;
+    line-height: 40px;
+    margin-bottom: 40px;
+}
+.write{
+    font-size: 18px;
+    opacity: .5;
+}
+#drop, #drip {
+    margin-bottom: 40px;
+    display: block;
+    box-sizing: border-box;
+    padding: 0% 12%;
+}
+.navcontent, .nav-content {
+    display: flex;
+    color: white;
+}
+.drops, .drips, .drabs{
+    margin-right: 60px;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+}
+.drops {
+    min-width: 400px;
+}
+.drops p, .drips p, .drabs p {
+    font-size: 18px;
+    font-weight: bolder;
+}
+.drops p span, .drips p span, .drabs p span {
+    opacity: .5;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.drips {
+    min-width: 700px;
+    margin-right: 100px;
+}
+.drabs {
+    min-width: 200px;
+}
+.drabs p, .drips p {
+    margin-top: 5%;
+}
+.yes {
+    padding-top: 10%;
+}
+.yo {
+    padding-top: 12%;
+}
+.ya {
+    padding-top: 8%;
+}
+.create {
+    margin-top: 50px;
+}
+.mark {
+    color: rgb(243, 65, 65);
+    font-size: 30px;
+}
+.small {
+    padding-top: 10%;
+    text-align: center;
+    font-size: smaller;
+    font-weight: lighter;
+    opacity: 0.5;
+}

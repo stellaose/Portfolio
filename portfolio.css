@@ -1,0 +1,116 @@
+body {
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+.container {
+    position: absolute;
+    align-items: center;
+}
+.container-fluid {
+    height: 60px;
+    margin: 10px 40px;
+    color: white;
+    display: inline;
+}
+.navbar-brand {
+    text-decoration: none;  
+    margin: 15px;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+    font-weight: bolder;  
+    font-size: 25px;
+}
+.align-top {
+    border-radius: 50%;
+    outline: none;
+}
+.fa-bars {
+    position: absolute;
+    float: right;
+    right: 10%;
+    font-size: 40px;
+    color: white;
+    margin-top: 15px;
+}
+.do {
+    color: white;
+    margin-bottom: 40px;
+    padding-top: 15%;
+    text-align: center;
+    line-height: 5px;
+}
+#box, #space {
+    height: 60px;
+    width: 80%;
+    margin: 100px 80px 100px 80px;
+}
+
+.width  {
+    display: block;
+    width: 40%;
+    position: inherit;
+    float: right;
+    right: 20%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.width a, .java a {
+    color: yellow;
+    text-decoration: none;
+}
+.width .decor, .java .decor {
+    font-weight: lighter;
+    opacity: 0.5;
+    font-size: 15px;
+}
+.smile img{
+    margin-left: 200px;
+    height: 400px;
+    width: 300px;
+}
+.small {
+    text-align: center;
+    font-size: smaller;
+    font-weight: lighter;
+    opacity: 0.5;
+}
+.large {
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Shippori Mincho', serif;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+.tiny {
+    font-size: smaller;
+    font-weight: lighter;
+    opacity: 0.5;
+}
+#space {
+    z-index: 1;
+    padding: 25% 15%;
+}
+.java {
+    display: block;
+    width: 40%;
+    position: inherit;
+    float: left;
+    left: 20%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.giggle img{
+    margin-left: 100px;
+    margin-top: 25px;
+    height: 400px;
+    width: 300px;
+}
+.create {
+    width: 1350px;
+    margin-top: 50px;
+}
+.mark {
+    color: rgb(243, 65, 65);
+    font-size: 30px;
+}
